@@ -3,7 +3,7 @@
     internal class Program
     {
 
-        //Proyectito de POO jiji
+        //Proyectito de POO jijiji
 
         static void Main(string[] args)
         {
